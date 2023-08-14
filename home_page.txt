@@ -3,3 +3,4 @@ Welcome to home page!
 Nav: 
 Home >
 Login  >
+Register >
